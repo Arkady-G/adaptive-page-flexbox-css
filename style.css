@@ -150,6 +150,7 @@ main {
 	border-radius: 8px;
 	padding: 14px 0;
 	box-shadow: 0 0 10px -1px #000;
+	cursor: pointer;
 }
 
 .cards .card .btn:hover {
