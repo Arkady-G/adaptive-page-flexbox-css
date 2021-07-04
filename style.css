@@ -152,6 +152,11 @@ main {
 	box-shadow: 0 0 10px -1px #000;
 }
 
+.cards .card .btn:hover {
+	box-shadow: none;
+	background: #e44d26;
+  }
+
 footer {
 	background: #6e78b7;
 	font-size: 21px;
