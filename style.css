@@ -253,13 +253,14 @@ footer p {
   .cards .card {
     font-size: 29px;
     max-width: 625px;
-    width: 100%;
+	min-width: 250px;
+    width: 90%;
     min-height: 665px;
   }
 
   .cards .card .btn {
     font-size: 29px;
-    width: 315px;
+    max-width: 315px;
     padding: 16px 0;
   }
 
