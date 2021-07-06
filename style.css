@@ -263,6 +263,10 @@ footer p {
     padding: 16px 0;
   }
 
+  main {
+	padding: 55px 0 0;
+  }
+
   footer {
     padding: 55px 0 50px;
   }
